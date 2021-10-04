@@ -1,0 +1,24 @@
+Warning message:
+In RNGkind("Mersenne-Twister", "Inversion", "Rounding") :
+  non-uniform 'Rounding' sampler used
+R version 4.1.1 (2021-08-10)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 18.04.5 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.7.1
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.7.1
+
+Random number generation:
+ RNG:     Mersenne-Twister 
+ Normal:  Inversion 
+ Sample:  Rounding 
+ 
+locale:
+[1] C
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.1.1
