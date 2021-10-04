@@ -1,0 +1,8 @@
+,value
+recall,1.0
+precision,0.9939271255060729
+neg_pred_value,1.0
+specificity,0.5714285714285714
+accuracy,0.9939759036144579
+balanced_accuracy,0.7857142857142857
+f1,0.9969543147208122

@@ -1,0 +1,10 @@
+"name","prop","f1"
+"QR code missing",0.009,0.998
+"Poor scan quality",0.002,1
+"Form not stamped",0.257,0.988
+"Presiding officer did not sign",0.007,0.997
+"No agents listed",0.04,0.997
+"Any agent did not sign",0.077,0.989
+"No agents signed",0.049,1
+"Agent signatures appear identical",0.05,0.998
+"Results edited",0.316,0.928
